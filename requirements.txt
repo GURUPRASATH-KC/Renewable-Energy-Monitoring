@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+streamlit
+
+These are all the Python libraries needed to run the simulations and the Streamlit dashboard.
+
+To install them, just run in your terminal (inside the project folder):
+
+pip install -r requirements.txt
